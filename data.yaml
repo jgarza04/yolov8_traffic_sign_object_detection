@@ -1,0 +1,11 @@
+train: /Users/juanpablogarza/Desktop/traffic_sign_dataset/images/train
+val: /Users/juanpablogarza/Desktop/traffic_sign_dataset/images/valid
+test: /Users/juanpablogarza/Desktop/traffic_sign_dataset/images/test
+nc: 6
+names:
+- stop
+- yield
+- no_through
+- keep_right
+- speedLimit25
+- finish
